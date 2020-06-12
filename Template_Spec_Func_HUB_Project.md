@@ -15,20 +15,24 @@ The software must implement the following requirements and are organized in four
 ## Design requirements
 |Requirement ID|Descriptions|
 |---:|:---|
-|**REQ_DESIGN_001**|Test|
-|**REQ_DESIGN_002**|Test|
+|**REQ_DESIGN_001**|User friendly|
+
 
 ## Functional requirements
 |Requirement ID|Descriptions|
 |---:|:---|
-|**REQ_FUNC_001**|Test|
-|**REQ_FUNC_002**|Test|
+|**REQ_FUNC_001**|Register|
+|**REQ_FUNC_002**|Login|
+|**REQ_FUNC_003**|Profile creation|
+|**REQ_FUNC_004**|Like / Dislike profile|
+|**REQ_FUNC_005**|Send messages to matchs|
+|**REQ_FUNC_006**|Appointment for visit|
 
 ## IHM requirements
 |Requirement ID|Descriptions|
 |---:|:---|
-|**REQ_IHM_001**|Test|
-|**REQ_IHM_002**|Test|
+|**REQ_IHM_001**|Template for streamlined profiles|
+|**REQ_IHM_002**|Modern IHM's|
 
 ## Data requirements
 |Requirement ID|Descriptions|
