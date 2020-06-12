@@ -3,7 +3,6 @@
 |---:|:---|
 |**Project name**|T-YEP-600|
 |**Head of project**|victor.mader@epitech.eu|
-|**Contributor of project**|victor.mader@epitech.eu|
 |**Contributor of project**|thomas.nunes@epitech.eu|
 |**Contributor of project**|aurelien.poirier@epitech.eu|
 |**Contributor of project**|vincent.muzas@epitech.eu|
@@ -34,13 +33,16 @@ on 2 months.
 ## Project functionnalities and qualities
 ### Requirements
 What **MUST** the project do?<br/>
-* Choice of registration : Tenant / Owner
-* Matching : If both of users liked each other, a match is created.
-* Filter users choice : region, price, space, rooms.
+* Account login / registration 
+* Fill user profile.
+* User can swipe other users profile.
+* Match available when 2 users liked each other.
+* Chat when matched.
+* Search filters choosen by users : region, price, space, rooms.
 
 What **SHOULD** the project do?<br/>
-* Set up a visit appointment based on availability of both of users
-* Delete a match 
+* Set up a visit appointment based on availability of both of users.
+* Delete a match. 
 * Report bad users.
 
 What **COULD** the project do?<br/>
