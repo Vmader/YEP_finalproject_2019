@@ -60,7 +60,7 @@ For this application, there will be 2 types of user : <br/>
 ## Deployment
 |Deployment||
 |---:|:---|
-|**Language**|React Native|
+|**Language**|Flutter|
 |**Platform target**|Mobile|
 
 ### Production environment
