@@ -22,9 +22,9 @@ The goal of this project is to perfectly fit a tenant demanding, and an owner ap
 ### Team
 There is 4 people in this project. **Need to be justified**_<br/>
 Contributors : <br/>
-* thomas.nunes@epitech.eu
-* aurelien.poirier@epitech.eu
-* vincent.muzas@epitech.eu
+* thomas.nunes@epitech.eu ( BackEnd )
+* aurelien.poirier@epitech.eu ( MiddleEnd )
+* vincent.muzas@epitech.eu ( FrontEnd )
 
 ### Organisation and tools
 We will use the Agility method for this project, based with sprints ( 2 weeks / sprint )
