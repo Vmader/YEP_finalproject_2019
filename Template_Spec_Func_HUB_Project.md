@@ -27,6 +27,7 @@ The software must implement the following requirements and are organized in four
 |**REQ_FUNC_004**|Like / Dislike profile|
 |**REQ_FUNC_005**|Send messages to matchs|
 |**REQ_FUNC_006**|Appointment for visit|
+|**REQ_FUNC_007**|Forgot password|
 
 ## IHM requirements
 |Requirement ID|Descriptions|
