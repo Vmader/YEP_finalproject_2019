@@ -44,6 +44,7 @@ What **SHOULD** the project do?<br/>
 * Set up a visit appointment based on availability of both of users.
 * Delete a match. 
 * Report bad users.
+* SSO Oauth with google
 
 What **COULD** the project do?<br/>
 * Users can paid to promote themselves.
