@@ -33,18 +33,14 @@ on 2 months.
 ## Project functionnalities and qualities
 ### Requirements
 What **MUST** the project do?<br/>
-* Account login / registration 
-* Fill user profile.
-* User can swipe other users profile.
-* Match available when 2 users liked each other.
-* Chat when matched.
-* Search filters choosen by users : region, price, space, rooms.
+* Users MUST register or login themselves in the app, also can fill their profile.
+* Users MUST can swipe others profiles and if both side swiped (like) they match and can talk one to another.
+* Users MUST search profile with filters, choosen by users : region, price, space, rooms.
 
 What **SHOULD** the project do?<br/>
-* Set up a visit appointment based on availability of both of users.
-* Delete a match. 
-* Report bad users.
-* SSO Oauth with google
+* The app SHOULD be able to set up an appoinment with calendar shared by users that matched.
+* Users SHOULD be able to delete a match, or report bad users behaviour. 
+* Users SHOULD connect themselves with google account ( Ouath ).
 
 What **COULD** the project do?<br/>
 * Users can paid to promote themselves.
