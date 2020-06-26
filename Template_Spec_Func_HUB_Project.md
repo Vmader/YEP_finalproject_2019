@@ -21,25 +21,28 @@ The software must implement the following requirements and are organized in four
 ## Functional requirements
 |Requirement ID|Descriptions|
 |---:|:---|
-|**REQ_FUNC_001**|Register|
-|**REQ_FUNC_002**|Login|
-|**REQ_FUNC_003**|Profile creation|
-|**REQ_FUNC_004**|Like / Dislike profile|
-|**REQ_FUNC_005**|Send messages to matchs|
-|**REQ_FUNC_006**|Appointment for visit|
-|**REQ_FUNC_007**|Forgot password|
+|**REQ_FUNC_001**|When oppening the app, the user have to register with google account|
+|**REQ_FUNC_002**|Users can login to his account|
+|**REQ_FUNC_003**|Users can fill their profile informations|
+|**REQ_FUNC_004**|Users can swipe left for dislike / right for like the other user profile|
+|**REQ_FUNC_005**|When matched users can chat one to another|
+|**REQ_FUNC_006**|Both users of a match can set up an appointment via calendar or equivalent|
+|**REQ_FUNC_007**|Allow user to renew their password|
 
 ## IHM requirements
 |Requirement ID|Descriptions|
 |---:|:---|
-|**REQ_IHM_001**|Template for streamlined profiles|
-|**REQ_IHM_002**|Modern IHM's|
+|**REQ_IHM_001**|First IHM for register or login|
+|**REQ_IHM_002**|Second IHM to fill user profile|
+|**REQ_IHM_003**|Third IHM to fill user profile|
+|**REQ_IHM_003**|fourth IHM for like/dislike/show details of user profile|
+|**REQ_IHM_003**|fifth IHM for matched profile / chat|
 
 ## Data requirements
 |Requirement ID|Descriptions|
 |---:|:---|
-|**REQ_DATA_001**|Test|
-|**REQ_DATA_002**|Test|
+|**REQ_DATA_001**|One table for Tenant with columns : FirstName,LastName,age, incomes,others|
+|**REQ_DATA_002**|One table for Owners with columns : FirstName,LastName,appartment photos,m²,rooms,others |
 
 # Delivery conditions
 ## Documentation:
